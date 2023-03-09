@@ -1,0 +1,17 @@
+{
+    "name": "ivan/march_test",
+    "autoload": {
+        "psr-4": {
+            "Ivan\\MarchTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shubaivan",
+            "email": "shuba.ivan@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": "7.4"
+    }
+}
